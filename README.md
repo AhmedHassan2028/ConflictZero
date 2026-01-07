@@ -146,7 +146,7 @@ All `departure time` values are Unix timestamps representing seconds since Janua
 
 A loss-of-separation occurs when **both** conditions are simultaneously met:
 
-1. **Horizontal Separation** < 30 nautical miles
+1. **Horizontal Separation** < 5 nautical miles
 2. **Vertical Separation** < 2,000 feet
 
 
