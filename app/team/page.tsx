@@ -16,7 +16,7 @@ export default function TeamPage() {
       description: 'Built the robust backend infrastructure, implementing flight trajectory analysis and conflict detection algorithms.',
     },
     {
-      name: 'Younis Chaounib',
+      name: 'Younes Chaouni',
       role: 'Marketing & Strategy',
       description: 'Led marketing efforts and strategic planning, ensuring ConflictZero reaches its target audience effectively.',
     },
