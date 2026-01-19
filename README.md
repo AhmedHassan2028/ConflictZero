@@ -1,3 +1,7 @@
+Hackathon product - Conflict Zero
+By: Ahmed, Murtaza, Roheen and Younes
+
+
 # uOttawaHack8 Trajectory Insight Challenge
 
 Create a tool for the national flight planning center that extracts insights from a list of daily planned flights and proposes solutions for conflicts and hot spots while taking into account cost and efficiency.  The idea is that air traffic planners will use the insights from your tool to adjust the planned flight operations. Feel free to use the flight planning data above, or create your own synthetic data.
